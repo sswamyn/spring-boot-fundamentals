@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/segment-02-spring-boot/contacts-app/contacts-app.iml" filepath="$PROJECT_DIR$/segment-02-spring-boot/contacts-app/contacts-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segment-01-spring-framework/contacts-app/contacts-app (1).iml" filepath="$PROJECT_DIR$/segment-01-spring-framework/contacts-app/contacts-app (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/segment-10-spring-boot-cloud/contacts-app/contacts-app (2).iml" filepath="$PROJECT_DIR$/segment-10-spring-boot-cloud/contacts-app/contacts-app (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/segment-07-spring-boot-testing/contacts-app/contacts-app (3).iml" filepath="$PROJECT_DIR$/segment-07-spring-boot-testing/contacts-app/contacts-app (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/segment-08-spring-boot-security/contacts-app/contacts-app (4).iml" filepath="$PROJECT_DIR$/segment-08-spring-boot-security/contacts-app/contacts-app (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/segment-09-spring-boot-actuator/contacts-app/contacts-app (5).iml" filepath="$PROJECT_DIR$/segment-09-spring-boot-actuator/contacts-app/contacts-app (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/segment-05-spring-boot-data-access/contacts-app/contacts-app (6).iml" filepath="$PROJECT_DIR$/segment-05-spring-boot-data-access/contacts-app/contacts-app (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/segment-04-spring-boot-web-development/contacts-app/contacts-app (7).iml" filepath="$PROJECT_DIR$/segment-04-spring-boot-web-development/contacts-app/contacts-app (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/segment-05-spring-boot-data-access/contacts-app-data-rest/contacts-app-data-rest.iml" filepath="$PROJECT_DIR$/segment-05-spring-boot-data-access/contacts-app-data-rest/contacts-app-data-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segment-06-spring-boot-reactive/contacts-app-reactive/contacts-app-reactive.iml" filepath="$PROJECT_DIR$/segment-06-spring-boot-reactive/contacts-app-reactive/contacts-app-reactive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segment-10-spring-boot-cloud/contacts-app-ui/contacts-app-ui.iml" filepath="$PROJECT_DIR$/segment-10-spring-boot-cloud/contacts-app-ui/contacts-app-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segment-08-spring-boot-security/contacts-app-ui/contacts-app-ui (1).iml" filepath="$PROJECT_DIR$/segment-08-spring-boot-security/contacts-app-ui/contacts-app-ui (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/segment-09-spring-boot-actuator/contacts-app-ui/contacts-app-ui (2).iml" filepath="$PROJECT_DIR$/segment-09-spring-boot-actuator/contacts-app-ui/contacts-app-ui (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/segment-05-spring-boot-data-access/contacts-app-ui/contacts-app-ui (3).iml" filepath="$PROJECT_DIR$/segment-05-spring-boot-data-access/contacts-app-ui/contacts-app-ui (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/segment-04-spring-boot-web-development/contacts-app-ui/contacts-app-ui (4).iml" filepath="$PROJECT_DIR$/segment-04-spring-boot-web-development/contacts-app-ui/contacts-app-ui (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-fundamentals.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-fundamentals.iml" />
+    </modules>
+  </component>
+</project>

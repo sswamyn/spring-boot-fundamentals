@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/segment-01-spring-framework/contacts-app" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/segment-02-spring-boot/contacts-app/pom.xml" />
+        <option value="$PROJECT_DIR$/segment-01-spring-framework/contacts-app/pom.xml" />
+        <option value="$PROJECT_DIR$/segment-10-spring-boot-cloud/contacts-app/pom.xml" />
+        <option value="$PROJECT_DIR$/segment-10-spring-boot-cloud/contacts-app-ui/pom.xml" />
+        <option value="$PROJECT_DIR$/segment-07-spring-boot-testing/contacts-app/pom.xml" />
+        <option value="$PROJECT_DIR$/segment-06-spring-boot-reactive/contacts-app-reactive/pom.xml" />
+        <option value="$PROJECT_DIR$/segment-08-spring-boot-security/contacts-app/pom.xml" />
+        <option value="$PROJECT_DIR$/segment-08-spring-boot-security/contacts-app-ui/pom.xml" />
+        <option value="$PROJECT_DIR$/segment-09-spring-boot-actuator/contacts-app/pom.xml" />
+        <option value="$PROJECT_DIR$/segment-09-spring-boot-actuator/contacts-app-ui/pom.xml" />
+        <option value="$PROJECT_DIR$/segment-05-spring-boot-data-access/contacts-app/pom.xml" />
+        <option value="$PROJECT_DIR$/segment-05-spring-boot-data-access/contacts-app-ui/pom.xml" />
+        <option value="$PROJECT_DIR$/segment-05-spring-boot-data-access/contacts-app-data-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/segment-04-spring-boot-web-development/contacts-app/pom.xml" />
+        <option value="$PROJECT_DIR$/segment-04-spring-boot-web-development/contacts-app-ui/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

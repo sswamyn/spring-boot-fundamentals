@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="contacts-app (2)" />
+        <module name="contacts-app (1)" />
+        <module name="contacts-app (4)" />
+        <module name="contacts-app" />
+        <module name="contacts-app (3)" />
+        <module name="contacts-app (6)" />
+        <module name="contacts-app (5)" />
+        <module name="contacts-app (7)" />
+        <module name="contacts-app-reactive" />
+        <module name="contacts-app-ui (4)" />
+        <module name="contacts-app-ui (3)" />
+        <module name="contacts-app-ui (2)" />
+        <module name="contacts-app-ui (1)" />
+        <module name="contacts-app-ui" />
+        <module name="contacts-app-data-rest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="contacts-app" target="1.5" />
+      <module name="contacts-app (1)" target="1.8" />
+      <module name="contacts-app (2)" target="1.5" />
+      <module name="contacts-app (3)" target="1.5" />
+      <module name="contacts-app (4)" target="1.5" />
+      <module name="contacts-app (5)" target="1.5" />
+      <module name="contacts-app (6)" target="1.5" />
+      <module name="contacts-app (7)" target="1.5" />
+      <module name="contacts-app-data-rest" target="1.5" />
+      <module name="contacts-app-reactive" target="1.5" />
+      <module name="contacts-app-ui" target="1.5" />
+      <module name="contacts-app-ui (1)" target="1.5" />
+      <module name="contacts-app-ui (2)" target="1.5" />
+      <module name="contacts-app-ui (3)" target="1.5" />
+      <module name="contacts-app-ui (4)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
